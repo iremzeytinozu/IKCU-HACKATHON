@@ -1,0 +1,14 @@
+[
+    {
+        "image": "person100_bacteria_475_PNEUMONIA.png",
+        "diagnostic_statement": "Pnömoni bulguları saptanmıştır.",
+        "anatomical_explanation": "Grad-CAM haritasında sağ alt lobda belirgin opasite izlenmektedir.",
+        "risk_assessment": "Yüksek risk",
+        "llm_output": "Göğüs röntgeni üzerinde yapılan değerlendirmede sağ alt lob bölgesinde yoğunluk artışı gözlenmiştir. Bu bulgu pnömoni lehine yorumlanmaktadır. Klinik değerlendirme ile birlikte antibiyotik tedavisi planlanabilir.",
+        "metrics": {
+            "bleu": 0.78,
+            "rouge_l": 0.84,
+            "bertscore": 0.88
+        }
+    }
+]
