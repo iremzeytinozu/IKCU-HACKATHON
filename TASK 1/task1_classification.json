@@ -1,0 +1,3122 @@
+[
+    {
+        "image": "IM-0001-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9891577959060669
+    },
+    {
+        "image": "IM-0003-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9635658860206604
+    },
+    {
+        "image": "IM-0005-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9507977366447449
+    },
+    {
+        "image": "IM-0006-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7063406705856323
+    },
+    {
+        "image": "IM-0007-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9980964064598083
+    },
+    {
+        "image": "IM-0009-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9736942648887634
+    },
+    {
+        "image": "IM-0010-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9933453798294067
+    },
+    {
+        "image": "IM-0011-0001-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.913474977016449
+    },
+    {
+        "image": "IM-0011-0001-0002.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.09484634548425674
+    },
+    {
+        "image": "IM-0011-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9938533306121826
+    },
+    {
+        "image": "IM-0013-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9765399694442749
+    },
+    {
+        "image": "IM-0015-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6834143400192261
+    },
+    {
+        "image": "IM-0016-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9512486457824707
+    },
+    {
+        "image": "IM-0017-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9972825050354004
+    },
+    {
+        "image": "IM-0019-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9414911270141602
+    },
+    {
+        "image": "IM-0021-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9630386829376221
+    },
+    {
+        "image": "IM-0022-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.025591561570763588
+    },
+    {
+        "image": "IM-0023-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.943067193031311
+    },
+    {
+        "image": "IM-0025-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9630368947982788
+    },
+    {
+        "image": "IM-0027-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9777325391769409
+    },
+    {
+        "image": "IM-0028-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7518073916435242
+    },
+    {
+        "image": "IM-0029-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9650339484214783
+    },
+    {
+        "image": "IM-0030-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8978239297866821
+    },
+    {
+        "image": "IM-0031-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9246676564216614
+    },
+    {
+        "image": "IM-0033-0001-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9982095956802368
+    },
+    {
+        "image": "IM-0033-0001-0002.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9973496198654175
+    },
+    {
+        "image": "IM-0033-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.899993896484375
+    },
+    {
+        "image": "IM-0035-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9891596436500549
+    },
+    {
+        "image": "IM-0036-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8828904628753662
+    },
+    {
+        "image": "IM-0037-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9245842695236206
+    },
+    {
+        "image": "IM-0039-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6712692975997925
+    },
+    {
+        "image": "IM-0041-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.985601007938385
+    },
+    {
+        "image": "IM-0043-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9876839518547058
+    },
+    {
+        "image": "IM-0045-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9996815919876099
+    },
+    {
+        "image": "IM-0046-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9537010788917542
+    },
+    {
+        "image": "IM-0049-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9527364373207092
+    },
+    {
+        "image": "IM-0050-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9821569919586182
+    },
+    {
+        "image": "IM-0059-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8403313159942627
+    },
+    {
+        "image": "IM-0061-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9961509704589844
+    },
+    {
+        "image": "IM-0063-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9896089434623718
+    },
+    {
+        "image": "IM-0065-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8926460146903992
+    },
+    {
+        "image": "IM-0067-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9453409910202026
+    },
+    {
+        "image": "IM-0069-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.98183274269104
+    },
+    {
+        "image": "IM-0070-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9979017972946167
+    },
+    {
+        "image": "IM-0071-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6647225022315979
+    },
+    {
+        "image": "IM-0073-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.1792440116405487
+    },
+    {
+        "image": "IM-0075-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.1714598685503006
+    },
+    {
+        "image": "IM-0077-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6011172533035278
+    },
+    {
+        "image": "IM-0079-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7853727340698242
+    },
+    {
+        "image": "IM-0081-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.877282977104187
+    },
+    {
+        "image": "IM-0083-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7005547285079956
+    },
+    {
+        "image": "IM-0084-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9247743487358093
+    },
+    {
+        "image": "IM-0085-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.15312202274799347
+    },
+    {
+        "image": "IM-0086-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8611670732498169
+    },
+    {
+        "image": "IM-0087-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9780020117759705
+    },
+    {
+        "image": "IM-0089-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9844295978546143
+    },
+    {
+        "image": "IM-0091-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.2773575782775879
+    },
+    {
+        "image": "IM-0093-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7335478067398071
+    },
+    {
+        "image": "IM-0095-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9502103328704834
+    },
+    {
+        "image": "IM-0097-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.5945362448692322
+    },
+    {
+        "image": "IM-0099-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.995831310749054
+    },
+    {
+        "image": "IM-0101-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.2291540503501892
+    },
+    {
+        "image": "IM-0102-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7116488218307495
+    },
+    {
+        "image": "IM-0103-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9866423606872559
+    },
+    {
+        "image": "IM-0105-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9905665516853333
+    },
+    {
+        "image": "IM-0107-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.992412269115448
+    },
+    {
+        "image": "IM-0109-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.40017545223236084
+    },
+    {
+        "image": "IM-0110-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.05357211083173752
+    },
+    {
+        "image": "IM-0111-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8345561027526855
+    },
+    {
+        "image": "NORMAL2-IM-0007-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.21114490926265717
+    },
+    {
+        "image": "NORMAL2-IM-0012-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9299818277359009
+    },
+    {
+        "image": "NORMAL2-IM-0013-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9155185222625732
+    },
+    {
+        "image": "NORMAL2-IM-0019-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.38503050804138184
+    },
+    {
+        "image": "NORMAL2-IM-0023-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9091063737869263
+    },
+    {
+        "image": "NORMAL2-IM-0027-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6873701810836792
+    },
+    {
+        "image": "NORMAL2-IM-0028-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.47025853395462036
+    },
+    {
+        "image": "NORMAL2-IM-0029-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9725815057754517
+    },
+    {
+        "image": "NORMAL2-IM-0030-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.958482563495636
+    },
+    {
+        "image": "NORMAL2-IM-0033-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9845446348190308
+    },
+    {
+        "image": "NORMAL2-IM-0035-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7785938382148743
+    },
+    {
+        "image": "NORMAL2-IM-0041-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7621902823448181
+    },
+    {
+        "image": "NORMAL2-IM-0045-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9557440876960754
+    },
+    {
+        "image": "NORMAL2-IM-0051-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7493793368339539
+    },
+    {
+        "image": "NORMAL2-IM-0052-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8108190298080444
+    },
+    {
+        "image": "NORMAL2-IM-0058-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9955649971961975
+    },
+    {
+        "image": "NORMAL2-IM-0059-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.16312217712402344
+    },
+    {
+        "image": "NORMAL2-IM-0060-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9952772855758667
+    },
+    {
+        "image": "NORMAL2-IM-0066-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6425870060920715
+    },
+    {
+        "image": "NORMAL2-IM-0072-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.012997138313949108
+    },
+    {
+        "image": "NORMAL2-IM-0073-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.02159739099442959
+    },
+    {
+        "image": "NORMAL2-IM-0079-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9591256380081177
+    },
+    {
+        "image": "NORMAL2-IM-0081-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.03846874088048935
+    },
+    {
+        "image": "NORMAL2-IM-0086-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.46148955821990967
+    },
+    {
+        "image": "NORMAL2-IM-0092-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6671225428581238
+    },
+    {
+        "image": "NORMAL2-IM-0095-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.051030971109867096
+    },
+    {
+        "image": "NORMAL2-IM-0096-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.051030971109867096
+    },
+    {
+        "image": "NORMAL2-IM-0098-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9732853174209595
+    },
+    {
+        "image": "NORMAL2-IM-0102-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.741073489189148
+    },
+    {
+        "image": "NORMAL2-IM-0105-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.19836078584194183
+    },
+    {
+        "image": "NORMAL2-IM-0107-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.18464669585227966
+    },
+    {
+        "image": "NORMAL2-IM-0110-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9874476790428162
+    },
+    {
+        "image": "NORMAL2-IM-0111-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.08776722848415375
+    },
+    {
+        "image": "NORMAL2-IM-0112-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9256448149681091
+    },
+    {
+        "image": "NORMAL2-IM-0117-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.13145048916339874
+    },
+    {
+        "image": "NORMAL2-IM-0120-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.5392007231712341
+    },
+    {
+        "image": "NORMAL2-IM-0123-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.056476883590221405
+    },
+    {
+        "image": "NORMAL2-IM-0129-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7016324996948242
+    },
+    {
+        "image": "NORMAL2-IM-0130-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.927925705909729
+    },
+    {
+        "image": "NORMAL2-IM-0131-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6666870713233948
+    },
+    {
+        "image": "NORMAL2-IM-0132-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.37049734592437744
+    },
+    {
+        "image": "NORMAL2-IM-0135-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.917839527130127
+    },
+    {
+        "image": "NORMAL2-IM-0139-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9245328307151794
+    },
+    {
+        "image": "NORMAL2-IM-0141-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9902950525283813
+    },
+    {
+        "image": "NORMAL2-IM-0145-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.24821482598781586
+    },
+    {
+        "image": "NORMAL2-IM-0146-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9847348928451538
+    },
+    {
+        "image": "NORMAL2-IM-0150-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.785772442817688
+    },
+    {
+        "image": "NORMAL2-IM-0171-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.025061018764972687
+    },
+    {
+        "image": "NORMAL2-IM-0173-0001-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.25605565309524536
+    },
+    {
+        "image": "NORMAL2-IM-0173-0001-0002.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.25605565309524536
+    },
+    {
+        "image": "NORMAL2-IM-0195-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.1381511241197586
+    },
+    {
+        "image": "NORMAL2-IM-0196-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.02614627778530121
+    },
+    {
+        "image": "NORMAL2-IM-0198-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.016069650650024414
+    },
+    {
+        "image": "NORMAL2-IM-0199-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.011821635998785496
+    },
+    {
+        "image": "NORMAL2-IM-0201-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.023950640112161636
+    },
+    {
+        "image": "NORMAL2-IM-0206-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0689859688282013
+    },
+    {
+        "image": "NORMAL2-IM-0207-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8870434761047363
+    },
+    {
+        "image": "NORMAL2-IM-0210-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.031787749379873276
+    },
+    {
+        "image": "NORMAL2-IM-0213-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6090836524963379
+    },
+    {
+        "image": "NORMAL2-IM-0217-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.1446676105260849
+    },
+    {
+        "image": "NORMAL2-IM-0219-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0911744013428688
+    },
+    {
+        "image": "NORMAL2-IM-0221-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.19124823808670044
+    },
+    {
+        "image": "NORMAL2-IM-0222-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.045938488095998764
+    },
+    {
+        "image": "NORMAL2-IM-0229-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.03737063333392143
+    },
+    {
+        "image": "NORMAL2-IM-0232-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.12645748257637024
+    },
+    {
+        "image": "NORMAL2-IM-0233-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.1351013481616974
+    },
+    {
+        "image": "NORMAL2-IM-0237-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.02408513054251671
+    },
+    {
+        "image": "NORMAL2-IM-0238-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.13319571316242218
+    },
+    {
+        "image": "NORMAL2-IM-0241-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.10052909702062607
+    },
+    {
+        "image": "NORMAL2-IM-0246-0001-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.19740110635757446
+    },
+    {
+        "image": "NORMAL2-IM-0246-0001-0002.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.19740110635757446
+    },
+    {
+        "image": "NORMAL2-IM-0246-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.009541036561131477
+    },
+    {
+        "image": "NORMAL2-IM-0249-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.054064325988292694
+    },
+    {
+        "image": "NORMAL2-IM-0251-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.08677693456411362
+    },
+    {
+        "image": "NORMAL2-IM-0252-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00150891556404531
+    },
+    {
+        "image": "NORMAL2-IM-0256-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.215249984757975e-05
+    },
+    {
+        "image": "NORMAL2-IM-0259-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.021839197725057602
+    },
+    {
+        "image": "NORMAL2-IM-0267-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.42389601469039917
+    },
+    {
+        "image": "NORMAL2-IM-0271-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6585047841072083
+    },
+    {
+        "image": "NORMAL2-IM-0272-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9640384912490845
+    },
+    {
+        "image": "NORMAL2-IM-0273-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.5385979413986206
+    },
+    {
+        "image": "NORMAL2-IM-0274-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9808365106582642
+    },
+    {
+        "image": "NORMAL2-IM-0275-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8035361170768738
+    },
+    {
+        "image": "NORMAL2-IM-0276-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.4981173872947693
+    },
+    {
+        "image": "NORMAL2-IM-0277-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.3185974061489105
+    },
+    {
+        "image": "NORMAL2-IM-0278-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9106904864311218
+    },
+    {
+        "image": "NORMAL2-IM-0279-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9514917135238647
+    },
+    {
+        "image": "NORMAL2-IM-0280-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9429928660392761
+    },
+    {
+        "image": "NORMAL2-IM-0281-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.714887261390686
+    },
+    {
+        "image": "NORMAL2-IM-0282-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9357824921607971
+    },
+    {
+        "image": "NORMAL2-IM-0283-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.13702866435050964
+    },
+    {
+        "image": "NORMAL2-IM-0285-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.5077915787696838
+    },
+    {
+        "image": "NORMAL2-IM-0286-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9357337355613708
+    },
+    {
+        "image": "NORMAL2-IM-0287-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9313766956329346
+    },
+    {
+        "image": "NORMAL2-IM-0288-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.3666737675666809
+    },
+    {
+        "image": "NORMAL2-IM-0289-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9433146119117737
+    },
+    {
+        "image": "NORMAL2-IM-0290-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7220792770385742
+    },
+    {
+        "image": "NORMAL2-IM-0292-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9059004187583923
+    },
+    {
+        "image": "NORMAL2-IM-0294-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9800482988357544
+    },
+    {
+        "image": "NORMAL2-IM-0297-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8877263069152832
+    },
+    {
+        "image": "NORMAL2-IM-0300-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9362605214118958
+    },
+    {
+        "image": "NORMAL2-IM-0301-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9583166837692261
+    },
+    {
+        "image": "NORMAL2-IM-0302-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8497840762138367
+    },
+    {
+        "image": "NORMAL2-IM-0303-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9305968284606934
+    },
+    {
+        "image": "NORMAL2-IM-0304-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7305918335914612
+    },
+    {
+        "image": "NORMAL2-IM-0305-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.5301216840744019
+    },
+    {
+        "image": "NORMAL2-IM-0307-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9965540170669556
+    },
+    {
+        "image": "NORMAL2-IM-0309-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9881096482276917
+    },
+    {
+        "image": "NORMAL2-IM-0310-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9406135678291321
+    },
+    {
+        "image": "NORMAL2-IM-0311-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9555147290229797
+    },
+    {
+        "image": "NORMAL2-IM-0312-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8519014716148376
+    },
+    {
+        "image": "NORMAL2-IM-0313-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9741083383560181
+    },
+    {
+        "image": "NORMAL2-IM-0315-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.07438535243272781
+    },
+    {
+        "image": "NORMAL2-IM-0316-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.3909133970737457
+    },
+    {
+        "image": "NORMAL2-IM-0317-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9215380549430847
+    },
+    {
+        "image": "NORMAL2-IM-0319-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7153832912445068
+    },
+    {
+        "image": "NORMAL2-IM-0321-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9454036355018616
+    },
+    {
+        "image": "NORMAL2-IM-0322-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.489574670791626
+    },
+    {
+        "image": "NORMAL2-IM-0323-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9943887591362
+    },
+    {
+        "image": "NORMAL2-IM-0325-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7281520366668701
+    },
+    {
+        "image": "NORMAL2-IM-0326-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9731943011283875
+    },
+    {
+        "image": "NORMAL2-IM-0327-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.4723281264305115
+    },
+    {
+        "image": "NORMAL2-IM-0328-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9422584176063538
+    },
+    {
+        "image": "NORMAL2-IM-0329-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9951658248901367
+    },
+    {
+        "image": "NORMAL2-IM-0330-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.1372579038143158
+    },
+    {
+        "image": "NORMAL2-IM-0331-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8576669692993164
+    },
+    {
+        "image": "NORMAL2-IM-0332-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.5824653506278992
+    },
+    {
+        "image": "NORMAL2-IM-0333-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9010305404663086
+    },
+    {
+        "image": "NORMAL2-IM-0335-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8504049777984619
+    },
+    {
+        "image": "NORMAL2-IM-0336-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9760419130325317
+    },
+    {
+        "image": "NORMAL2-IM-0337-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9971963167190552
+    },
+    {
+        "image": "NORMAL2-IM-0338-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.12781298160552979
+    },
+    {
+        "image": "NORMAL2-IM-0339-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9413266777992249
+    },
+    {
+        "image": "NORMAL2-IM-0340-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7787029147148132
+    },
+    {
+        "image": "NORMAL2-IM-0341-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9865158796310425
+    },
+    {
+        "image": "NORMAL2-IM-0343-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9465286135673523
+    },
+    {
+        "image": "NORMAL2-IM-0345-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9381633400917053
+    },
+    {
+        "image": "NORMAL2-IM-0346-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9607109427452087
+    },
+    {
+        "image": "NORMAL2-IM-0347-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7334651350975037
+    },
+    {
+        "image": "NORMAL2-IM-0348-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9787983298301697
+    },
+    {
+        "image": "NORMAL2-IM-0349-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.1681608110666275
+    },
+    {
+        "image": "NORMAL2-IM-0350-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9245750904083252
+    },
+    {
+        "image": "NORMAL2-IM-0351-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9808018803596497
+    },
+    {
+        "image": "NORMAL2-IM-0352-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9587481021881104
+    },
+    {
+        "image": "NORMAL2-IM-0353-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.6996062994003296
+    },
+    {
+        "image": "NORMAL2-IM-0354-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9949026107788086
+    },
+    {
+        "image": "NORMAL2-IM-0357-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.996775209903717
+    },
+    {
+        "image": "NORMAL2-IM-0359-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7683782577514648
+    },
+    {
+        "image": "NORMAL2-IM-0360-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0659143328666687
+    },
+    {
+        "image": "NORMAL2-IM-0361-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.1935523897409439
+    },
+    {
+        "image": "NORMAL2-IM-0362-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8452982306480408
+    },
+    {
+        "image": "NORMAL2-IM-0364-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.675197422504425
+    },
+    {
+        "image": "NORMAL2-IM-0366-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.555150032043457
+    },
+    {
+        "image": "NORMAL2-IM-0368-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7465744614601135
+    },
+    {
+        "image": "NORMAL2-IM-0369-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.5208896994590759
+    },
+    {
+        "image": "NORMAL2-IM-0370-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9808871746063232
+    },
+    {
+        "image": "NORMAL2-IM-0372-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9213106632232666
+    },
+    {
+        "image": "NORMAL2-IM-0373-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.25602197647094727
+    },
+    {
+        "image": "NORMAL2-IM-0374-0001-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9724730253219604
+    },
+    {
+        "image": "NORMAL2-IM-0374-0001-0002.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.4518669545650482
+    },
+    {
+        "image": "NORMAL2-IM-0374-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9825888872146606
+    },
+    {
+        "image": "NORMAL2-IM-0376-0001.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.24292883276939392
+    },
+    {
+        "image": "NORMAL2-IM-0378-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.9705258011817932
+    },
+    {
+        "image": "NORMAL2-IM-0380-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7947097420692444
+    },
+    {
+        "image": "NORMAL2-IM-0381-0001.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8995022773742676
+    },
+    {
+        "image": "person100_bacteria_475.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.036070581525564194
+    },
+    {
+        "image": "person100_bacteria_477.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.06187234818935394
+    },
+    {
+        "image": "person100_bacteria_478.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.960454589308938e-07
+    },
+    {
+        "image": "person100_bacteria_479.jpeg",
+        "predicted_class": 0,
+        "confidence": 8.147046592910101e-09
+    },
+    {
+        "image": "person100_bacteria_480.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.3212397688184865e-06
+    },
+    {
+        "image": "person100_bacteria_481.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.1562614165304694e-06
+    },
+    {
+        "image": "person100_bacteria_482.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.513752770028077e-05
+    },
+    {
+        "image": "person101_bacteria_483.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.366031814446615e-07
+    },
+    {
+        "image": "person101_bacteria_484.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0012918396387249231
+    },
+    {
+        "image": "person101_bacteria_485.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.595654248376377e-05
+    },
+    {
+        "image": "person101_bacteria_486.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.011205566532226e-07
+    },
+    {
+        "image": "person102_bacteria_487.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0034921064507216215
+    },
+    {
+        "image": "person103_bacteria_488.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.210267950886191e-07
+    },
+    {
+        "image": "person103_bacteria_489.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.5609063818119466e-05
+    },
+    {
+        "image": "person103_bacteria_490.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.03544909507036209
+    },
+    {
+        "image": "person104_bacteria_491.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.8288416110153776e-06
+    },
+    {
+        "image": "person104_bacteria_492.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.4541814152835286e-07
+    },
+    {
+        "image": "person108_bacteria_504.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0008331239223480225
+    },
+    {
+        "image": "person108_bacteria_506.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00032597739482298493
+    },
+    {
+        "image": "person108_bacteria_507.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.8961765817948617e-05
+    },
+    {
+        "image": "person108_bacteria_511.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.32942917943000793
+    },
+    {
+        "image": "person109_bacteria_512.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.005244844127446413
+    },
+    {
+        "image": "person109_bacteria_513.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.148641669919016e-06
+    },
+    {
+        "image": "person109_bacteria_517.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0002202828909503296
+    },
+    {
+        "image": "person109_bacteria_519.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00011598347191466019
+    },
+    {
+        "image": "person109_bacteria_522.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.005710783880203962
+    },
+    {
+        "image": "person109_bacteria_523.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.9695812031604873e-07
+    },
+    {
+        "image": "person109_bacteria_526.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.4135670198811567e-06
+    },
+    {
+        "image": "person109_bacteria_527.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.251660677326072e-07
+    },
+    {
+        "image": "person109_bacteria_528.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00043680216185748577
+    },
+    {
+        "image": "person10_virus_35.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0019108998822048306
+    },
+    {
+        "image": "person110_bacteria_531.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00015282137610483915
+    },
+    {
+        "image": "person111_bacteria_533.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.1951207094825804e-05
+    },
+    {
+        "image": "person111_bacteria_534.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.1943561730731744e-05
+    },
+    {
+        "image": "person111_bacteria_535.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.4024793649223284e-07
+    },
+    {
+        "image": "person111_bacteria_536.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.3262938952939294e-07
+    },
+    {
+        "image": "person111_bacteria_537.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.015708433464169502
+    },
+    {
+        "image": "person112_bacteria_538.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.969161187138525e-06
+    },
+    {
+        "image": "person112_bacteria_539.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0001440693304175511
+    },
+    {
+        "image": "person113_bacteria_540.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.481849890045851e-07
+    },
+    {
+        "image": "person113_bacteria_541.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.7997002689517103e-06
+    },
+    {
+        "image": "person113_bacteria_542.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.5378205132683433e-08
+    },
+    {
+        "image": "person113_bacteria_543.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.30021631717681885
+    },
+    {
+        "image": "person114_bacteria_544.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.1572017683647573e-05
+    },
+    {
+        "image": "person114_bacteria_545.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.000761801959015429
+    },
+    {
+        "image": "person114_bacteria_546.jpeg",
+        "predicted_class": 0,
+        "confidence": 8.63899003888946e-07
+    },
+    {
+        "image": "person117_bacteria_553.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.340279989875853e-05
+    },
+    {
+        "image": "person117_bacteria_556.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.001596001093275845
+    },
+    {
+        "image": "person117_bacteria_557.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7984831929206848
+    },
+    {
+        "image": "person118_bacteria_559.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.7053635019692592e-06
+    },
+    {
+        "image": "person118_bacteria_560.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.09667672216892242
+    },
+    {
+        "image": "person119_bacteria_565.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.3786215542240825e-08
+    },
+    {
+        "image": "person119_bacteria_566.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.7288765522825997e-06
+    },
+    {
+        "image": "person119_bacteria_567.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.030833909288048744
+    },
+    {
+        "image": "person119_bacteria_568.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.4003591537475586
+    },
+    {
+        "image": "person11_virus_38.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.004030562937259674
+    },
+    {
+        "image": "person120_bacteria_570.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0004765967314597219
+    },
+    {
+        "image": "person120_bacteria_571.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.2469249099922308e-07
+    },
+    {
+        "image": "person120_bacteria_572.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.513567884918302e-05
+    },
+    {
+        "image": "person120_bacteria_573.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.009996912442147732
+    },
+    {
+        "image": "person121_bacteria_575.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00023336336016654968
+    },
+    {
+        "image": "person121_bacteria_576.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.593124516982243e-09
+    },
+    {
+        "image": "person121_bacteria_578.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.6871929271219415e-07
+    },
+    {
+        "image": "person121_bacteria_579.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.4997894481894036e-08
+    },
+    {
+        "image": "person121_bacteria_580.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.05764532461762428
+    },
+    {
+        "image": "person122_bacteria_581.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8683933019638062
+    },
+    {
+        "image": "person122_bacteria_582.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.7456486034461705e-07
+    },
+    {
+        "image": "person122_bacteria_583.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.4457684111876006e-07
+    },
+    {
+        "image": "person122_bacteria_584.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.1615577831398696e-05
+    },
+    {
+        "image": "person122_bacteria_585.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.274215931829531e-06
+    },
+    {
+        "image": "person122_bacteria_586.jpeg",
+        "predicted_class": 0,
+        "confidence": 6.356290782605356e-08
+    },
+    {
+        "image": "person123_bacteria_587.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.018409056996461e-05
+    },
+    {
+        "image": "person124_bacteria_589.jpeg",
+        "predicted_class": 0,
+        "confidence": 6.479566216910371e-09
+    },
+    {
+        "image": "person124_bacteria_590.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0001883398654172197
+    },
+    {
+        "image": "person124_bacteria_591.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0006992832059040666
+    },
+    {
+        "image": "person124_bacteria_592.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.003562190569937229
+    },
+    {
+        "image": "person125_bacteria_594.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.483395165763795e-05
+    },
+    {
+        "image": "person125_bacteria_595.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.703896593127865e-06
+    },
+    {
+        "image": "person126_bacteria_598.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.6556195703287813e-07
+    },
+    {
+        "image": "person126_bacteria_599.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.081811214173285e-08
+    },
+    {
+        "image": "person126_bacteria_600.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.213835916455082e-09
+    },
+    {
+        "image": "person127_bacteria_602.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.0445562566019362e-06
+    },
+    {
+        "image": "person127_bacteria_603.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.2997875172877684e-06
+    },
+    {
+        "image": "person127_bacteria_604.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.3146071135997772
+    },
+    {
+        "image": "person128_bacteria_605.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.105245210439534e-08
+    },
+    {
+        "image": "person128_bacteria_606.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.4416951305283874e-07
+    },
+    {
+        "image": "person128_bacteria_607.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.4416951305283874e-07
+    },
+    {
+        "image": "person128_bacteria_608.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.08927325904369354
+    },
+    {
+        "image": "person130_bacteria_623.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.010928109288215637
+    },
+    {
+        "image": "person130_bacteria_625.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.1393678252934478e-05
+    },
+    {
+        "image": "person130_bacteria_626.jpeg",
+        "predicted_class": 0,
+        "confidence": 6.484429832198657e-06
+    },
+    {
+        "image": "person130_bacteria_627.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.2221872566442471e-05
+    },
+    {
+        "image": "person130_bacteria_628.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0023728185333311558
+    },
+    {
+        "image": "person131_bacteria_629.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.718768650491256e-06
+    },
+    {
+        "image": "person132_bacteria_632.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0001050019491231069
+    },
+    {
+        "image": "person133_bacteria_633.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0001045629323925823
+    },
+    {
+        "image": "person133_bacteria_634.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.1453096249169903e-06
+    },
+    {
+        "image": "person133_bacteria_635.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.8219147313611757e-07
+    },
+    {
+        "image": "person133_bacteria_637.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.007645356468856335
+    },
+    {
+        "image": "person133_bacteria_638.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.392271305026952e-07
+    },
+    {
+        "image": "person134_bacteria_640.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.010608126409351826
+    },
+    {
+        "image": "person134_bacteria_641.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.006165791768580675
+    },
+    {
+        "image": "person134_bacteria_642.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0007814111886546016
+    },
+    {
+        "image": "person134_bacteria_643.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.002294251462444663
+    },
+    {
+        "image": "person134_bacteria_644.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.002294251462444663
+    },
+    {
+        "image": "person135_bacteria_646.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.0112808922713157e-05
+    },
+    {
+        "image": "person135_bacteria_647.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.0759625013179175e-07
+    },
+    {
+        "image": "person136_bacteria_648.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.011187363415956497
+    },
+    {
+        "image": "person136_bacteria_649.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.163551345001906e-05
+    },
+    {
+        "image": "person136_bacteria_650.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.997466013875965e-07
+    },
+    {
+        "image": "person136_bacteria_652.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.006774154957383871
+    },
+    {
+        "image": "person136_bacteria_654.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.008874110877513885
+    },
+    {
+        "image": "person137_bacteria_655.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00011634458496700972
+    },
+    {
+        "image": "person138_bacteria_657.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0030478627886623144
+    },
+    {
+        "image": "person138_bacteria_658.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0028043610509485006
+    },
+    {
+        "image": "person138_bacteria_659.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0027654541190713644
+    },
+    {
+        "image": "person139_bacteria_661.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.673689884133637e-05
+    },
+    {
+        "image": "person139_bacteria_662.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.779680805062526e-07
+    },
+    {
+        "image": "person139_bacteria_663.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.4765448592443136e-07
+    },
+    {
+        "image": "person139_bacteria_664.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.818474841769785e-06
+    },
+    {
+        "image": "person139_bacteria_665.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.0178880731691606e-05
+    },
+    {
+        "image": "person139_bacteria_666.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.12671427428722382
+    },
+    {
+        "image": "person140_bacteria_667.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.002960680052638054
+    },
+    {
+        "image": "person140_bacteria_668.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.015423228964209557
+    },
+    {
+        "image": "person141_bacteria_670.jpeg",
+        "predicted_class": 0,
+        "confidence": 8.877947948349174e-06
+    },
+    {
+        "image": "person141_bacteria_676.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.971571327885613e-05
+    },
+    {
+        "image": "person141_bacteria_677.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0006394290830940008
+    },
+    {
+        "image": "person141_bacteria_678.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.7464346885608393e-07
+    },
+    {
+        "image": "person141_bacteria_681.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.07452694667154e-06
+    },
+    {
+        "image": "person142_bacteria_682.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.23177483677864075
+    },
+    {
+        "image": "person142_bacteria_683.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.5369403627119027e-05
+    },
+    {
+        "image": "person142_bacteria_684.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.789049959683325e-06
+    },
+    {
+        "image": "person143_bacteria_687.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.4868722246319521e-05
+    },
+    {
+        "image": "person143_bacteria_688.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0012896101688966155
+    },
+    {
+        "image": "person143_bacteria_689.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.013352383859455585
+    },
+    {
+        "image": "person144_bacteria_690.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.6487183529534377e-05
+    },
+    {
+        "image": "person145_bacteria_696.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.86840682849288e-05
+    },
+    {
+        "image": "person146_bacteria_700.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.114154408962349e-07
+    },
+    {
+        "image": "person146_bacteria_703.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.374247773355819e-07
+    },
+    {
+        "image": "person146_bacteria_704.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.13020646572113037
+    },
+    {
+        "image": "person147_bacteria_705.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.068445948883891e-05
+    },
+    {
+        "image": "person147_bacteria_706.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.0642724343342707e-05
+    },
+    {
+        "image": "person147_bacteria_707.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00023122981656342745
+    },
+    {
+        "image": "person147_bacteria_711.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.005208777729421854
+    },
+    {
+        "image": "person149_bacteria_713.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00019381690071895719
+    },
+    {
+        "image": "person14_virus_44.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00012434020754881203
+    },
+    {
+        "image": "person150_bacteria_715.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.281497993157245e-05
+    },
+    {
+        "image": "person150_bacteria_716.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.3583343136124313e-05
+    },
+    {
+        "image": "person150_bacteria_717.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.06255032867193222
+    },
+    {
+        "image": "person151_bacteria_718.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.338195106067815e-09
+    },
+    {
+        "image": "person152_bacteria_720.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.185312693356536e-05
+    },
+    {
+        "image": "person152_bacteria_721.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.495101039647125e-06
+    },
+    {
+        "image": "person152_bacteria_722.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.001134364742029e-06
+    },
+    {
+        "image": "person152_bacteria_723.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.459117579041049e-05
+    },
+    {
+        "image": "person152_bacteria_724.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.42756152153015137
+    },
+    {
+        "image": "person153_bacteria_725.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.935726974508725e-05
+    },
+    {
+        "image": "person153_bacteria_726.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.36319342255592346
+    },
+    {
+        "image": "person154_bacteria_728.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.8457352519035339
+    },
+    {
+        "image": "person155_bacteria_729.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00012322678230702877
+    },
+    {
+        "image": "person155_bacteria_730.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.005541173741221428
+    },
+    {
+        "image": "person155_bacteria_731.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00020239019067957997
+    },
+    {
+        "image": "person157_bacteria_735.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.7741057806451863e-07
+    },
+    {
+        "image": "person157_bacteria_739.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.810452876175987e-06
+    },
+    {
+        "image": "person157_bacteria_740.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0004846035153605044
+    },
+    {
+        "image": "person158_bacteria_742.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.769481165567413e-07
+    },
+    {
+        "image": "person158_bacteria_743.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.0638553905882873e-06
+    },
+    {
+        "image": "person158_bacteria_744.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.6881797615961887e-09
+    },
+    {
+        "image": "person158_bacteria_745.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.3427003026008606
+    },
+    {
+        "image": "person159_bacteria_746.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.624650942896551e-08
+    },
+    {
+        "image": "person159_bacteria_747.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.4585200359724695e-08
+    },
+    {
+        "image": "person15_virus_46.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.23731908202171326
+    },
+    {
+        "image": "person1608_virus_2786.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.15173286199569702
+    },
+    {
+        "image": "person1610_virus_2793.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.005026708822697401
+    },
+    {
+        "image": "person1612_virus_2797.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00022661018010694534
+    },
+    {
+        "image": "person1612_virus_2798.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0007672305800952017
+    },
+    {
+        "image": "person1613_virus_2799.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.2892824896844104e-05
+    },
+    {
+        "image": "person1614_virus_2800.jpeg",
+        "predicted_class": 0,
+        "confidence": 6.617948145049013e-08
+    },
+    {
+        "image": "person1615_virus_2801.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00028338038828223944
+    },
+    {
+        "image": "person1616_virus_2802.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.02226906456053257
+    },
+    {
+        "image": "person1618_virus_2805.jpeg",
+        "predicted_class": 0,
+        "confidence": 8.469464955851436e-05
+    },
+    {
+        "image": "person1619_virus_2806.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.7080333135672845e-06
+    },
+    {
+        "image": "person161_bacteria_757.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.01826416701078415
+    },
+    {
+        "image": "person161_bacteria_759.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.554543556878343e-05
+    },
+    {
+        "image": "person161_bacteria_762.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.7499883770942688
+    },
+    {
+        "image": "person1620_virus_2807.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.851782134413952e-07
+    },
+    {
+        "image": "person1622_virus_2810.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.7593023585504852e-05
+    },
+    {
+        "image": "person1623_virus_2813.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.03439893200993538
+    },
+    {
+        "image": "person1625_virus_2817.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.029260246083140373
+    },
+    {
+        "image": "person1626_virus_2818.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.8486847440944985e-05
+    },
+    {
+        "image": "person1627_virus_2819.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.918328265077434e-06
+    },
+    {
+        "image": "person1628_virus_2821.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.03885708376765251
+    },
+    {
+        "image": "person1628_virus_2822.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00028882772312499583
+    },
+    {
+        "image": "person1629_virus_2823.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0276873130351305
+    },
+    {
+        "image": "person1631_virus_2826.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.025155069306492805
+    },
+    {
+        "image": "person1632_virus_2827.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.65208938496653e-05
+    },
+    {
+        "image": "person1633_virus_2829.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0010841075563803315
+    },
+    {
+        "image": "person1634_virus_2830.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0002948837645817548
+    },
+    {
+        "image": "person1635_virus_2831.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0017045852728188038
+    },
+    {
+        "image": "person1637_virus_2834.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0011656193528324366
+    },
+    {
+        "image": "person1640_virus_2839.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.018965555354952812
+    },
+    {
+        "image": "person1641_virus_2840.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.07179410755634308
+    },
+    {
+        "image": "person1642_virus_2842.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0031271057669073343
+    },
+    {
+        "image": "person1643_virus_2843.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.007205532863736153
+    },
+    {
+        "image": "person1644_virus_2844.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0017577005783095956
+    },
+    {
+        "image": "person1645_virus_2845.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.011762823909521103
+    },
+    {
+        "image": "person1647_virus_2848.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0047433399595320225
+    },
+    {
+        "image": "person1649_virus_2850.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.014072403311729431
+    },
+    {
+        "image": "person1650_virus_2852.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00514301098883152
+    },
+    {
+        "image": "person1650_virus_2854.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00203505321405828
+    },
+    {
+        "image": "person1651_virus_2855.jpeg",
+        "predicted_class": 0,
+        "confidence": 8.317823812831193e-05
+    },
+    {
+        "image": "person1653_virus_2858.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00987106654793024
+    },
+    {
+        "image": "person1653_virus_2859.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.04957307130098343
+    },
+    {
+        "image": "person1655_virus_2861.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.010410613380372524
+    },
+    {
+        "image": "person1656_virus_2862.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.203583613270894e-05
+    },
+    {
+        "image": "person1657_virus_2864.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0006893506506457925
+    },
+    {
+        "image": "person1659_virus_2867.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0043719797395169735
+    },
+    {
+        "image": "person1660_virus_2869.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.003369459882378578
+    },
+    {
+        "image": "person1661_virus_2872.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.9810233223252e-05
+    },
+    {
+        "image": "person1661_virus_2873.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.9810233223252e-05
+    },
+    {
+        "image": "person1662_virus_2875.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0011040243552997708
+    },
+    {
+        "image": "person1663_virus_2876.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00010569420555839315
+    },
+    {
+        "image": "person1664_virus_2877.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0017308910610154271
+    },
+    {
+        "image": "person1665_virus_2878.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0016674974467605352
+    },
+    {
+        "image": "person1667_virus_2881.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.18945783376693726
+    },
+    {
+        "image": "person1668_virus_2882.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.38281315565109253
+    },
+    {
+        "image": "person1669_virus_2884.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.007381943054497242
+    },
+    {
+        "image": "person1669_virus_2885.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0055465963669121265
+    },
+    {
+        "image": "person1670_virus_2886.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0001417226594639942
+    },
+    {
+        "image": "person1671_virus_2887.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.4206906497711316e-05
+    },
+    {
+        "image": "person1672_virus_2888.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.025483036413788795
+    },
+    {
+        "image": "person1673_virus_2889.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0014738192548975348
+    },
+    {
+        "image": "person1674_virus_2890.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.04135970026254654
+    },
+    {
+        "image": "person1675_virus_2891.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.07157138735055923
+    },
+    {
+        "image": "person1676_virus_2892.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.007344504818320274
+    },
+    {
+        "image": "person1678_virus_2895.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.123123315162957e-05
+    },
+    {
+        "image": "person1679_virus_2896.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0001550632150610909
+    },
+    {
+        "image": "person1680_virus_2897.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.012798373587429523
+    },
+    {
+        "image": "person1682_virus_2899.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0001688233169261366
+    },
+    {
+        "image": "person1685_virus_2903.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.44863718864508e-05
+    },
+    {
+        "image": "person16_virus_47.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.29730600118637085
+    },
+    {
+        "image": "person171_bacteria_826.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.8097543375006353e-07
+    },
+    {
+        "image": "person172_bacteria_827.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.697956117321155e-06
+    },
+    {
+        "image": "person172_bacteria_828.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.056892625987529755
+    },
+    {
+        "image": "person173_bacteria_829.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.2379154213704169e-05
+    },
+    {
+        "image": "person173_bacteria_830.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00027733336901292205
+    },
+    {
+        "image": "person173_bacteria_831.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.12876807153224945
+    },
+    {
+        "image": "person174_bacteria_832.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.032018404453992844
+    },
+    {
+        "image": "person175_bacteria_833.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0016423776978626847
+    },
+    {
+        "image": "person175_bacteria_834.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0004505169636104256
+    },
+    {
+        "image": "person175_bacteria_835.jpeg",
+        "predicted_class": 0,
+        "confidence": 8.132664333970752e-06
+    },
+    {
+        "image": "person17_virus_48.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.011702547781169415
+    },
+    {
+        "image": "person18_virus_49.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.03827708959579468
+    },
+    {
+        "image": "person19_virus_50.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.07018009573221207
+    },
+    {
+        "image": "person1_virus_11.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.889721042100064e-08
+    },
+    {
+        "image": "person1_virus_12.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.672388336819267e-09
+    },
+    {
+        "image": "person1_virus_13.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.001369316945783794
+    },
+    {
+        "image": "person1_virus_6.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.2763057333795587e-06
+    },
+    {
+        "image": "person1_virus_7.jpeg",
+        "predicted_class": 0,
+        "confidence": 6.013173674546124e-07
+    },
+    {
+        "image": "person1_virus_8.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.1450135692430194e-06
+    },
+    {
+        "image": "person1_virus_9.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.2462417089409428e-06
+    },
+    {
+        "image": "person20_virus_51.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.06377079337835312
+    },
+    {
+        "image": "person21_virus_52.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0002721771888900548
+    },
+    {
+        "image": "person21_virus_53.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.004905033856630325
+    },
+    {
+        "image": "person22_virus_54.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0031032057013362646
+    },
+    {
+        "image": "person22_virus_55.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.030938781797885895
+    },
+    {
+        "image": "person23_virus_56.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.035898126661777496
+    },
+    {
+        "image": "person24_virus_58.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.008007175289094448
+    },
+    {
+        "image": "person25_virus_59.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.012850016355514526
+    },
+    {
+        "image": "person26_virus_60.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0008098790422081947
+    },
+    {
+        "image": "person28_virus_62.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.3018662929534912
+    },
+    {
+        "image": "person28_virus_63.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0034760860726237297
+    },
+    {
+        "image": "person29_virus_64.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.014169416390359402
+    },
+    {
+        "image": "person30_virus_69.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00016436088480986655
+    },
+    {
+        "image": "person31_virus_70.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.002330636838451028
+    },
+    {
+        "image": "person32_virus_71.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.01899312622845173
+    },
+    {
+        "image": "person33_virus_72.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00010869574907701463
+    },
+    {
+        "image": "person34_virus_76.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.01401591207832098
+    },
+    {
+        "image": "person35_virus_80.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.2121756672859192
+    },
+    {
+        "image": "person36_virus_81.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00323050026781857
+    },
+    {
+        "image": "person37_virus_82.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.02026301808655262
+    },
+    {
+        "image": "person38_virus_83.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.082356124650687e-05
+    },
+    {
+        "image": "person38_virus_84.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.8988965166499838e-05
+    },
+    {
+        "image": "person39_virus_85.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.08434069156646729
+    },
+    {
+        "image": "person3_virus_15.jpeg",
+        "predicted_class": 0,
+        "confidence": 8.433762559434399e-05
+    },
+    {
+        "image": "person3_virus_16.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00010022921924246475
+    },
+    {
+        "image": "person3_virus_17.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.003355263965204358
+    },
+    {
+        "image": "person40_virus_87.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.42906612157821655
+    },
+    {
+        "image": "person41_virus_88.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.020308876410126686
+    },
+    {
+        "image": "person42_virus_89.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.05270151048898697
+    },
+    {
+        "image": "person43_virus_92.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00010359329462517053
+    },
+    {
+        "image": "person44_virus_93.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00035407530958764255
+    },
+    {
+        "image": "person44_virus_94.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.008256489410996437
+    },
+    {
+        "image": "person45_virus_95.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.013304996304214
+    },
+    {
+        "image": "person46_virus_96.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00917437206953764
+    },
+    {
+        "image": "person47_virus_99.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.002492198022082448
+    },
+    {
+        "image": "person48_virus_100.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.008683334104716778
+    },
+    {
+        "image": "person49_virus_101.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.16051100194454193
+    },
+    {
+        "image": "person50_virus_102.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.037156153470277786
+    },
+    {
+        "image": "person51_virus_105.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.01151237078011036
+    },
+    {
+        "image": "person52_virus_106.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.08396364003419876
+    },
+    {
+        "image": "person53_virus_107.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0027584759518504143
+    },
+    {
+        "image": "person53_virus_108.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0010888919932767749
+    },
+    {
+        "image": "person54_virus_109.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.05999540165066719
+    },
+    {
+        "image": "person55_virus_110.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.06546168774366379
+    },
+    {
+        "image": "person56_virus_112.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.002377876080572605
+    },
+    {
+        "image": "person57_virus_113.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.005690809804946184
+    },
+    {
+        "image": "person59_virus_116.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.030974557623267174
+    },
+    {
+        "image": "person60_virus_117.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.17629800736904144
+    },
+    {
+        "image": "person61_virus_118.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.001541377860121429
+    },
+    {
+        "image": "person62_virus_119.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.02387465536594391
+    },
+    {
+        "image": "person63_virus_121.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.019247882068157196
+    },
+    {
+        "image": "person64_virus_122.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.012592809274792671
+    },
+    {
+        "image": "person65_virus_123.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.01382425706833601
+    },
+    {
+        "image": "person66_virus_125.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.023442983627319336
+    },
+    {
+        "image": "person67_virus_126.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00022106115648057312
+    },
+    {
+        "image": "person69_virus_129.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.868466461019125e-05
+    },
+    {
+        "image": "person70_virus_130.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.07110588252544403
+    },
+    {
+        "image": "person71_virus_131.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.04834748059511185
+    },
+    {
+        "image": "person71_virus_132.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.018525732681155205
+    },
+    {
+        "image": "person72_virus_133.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.033647987991571426
+    },
+    {
+        "image": "person74_virus_135.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0051340400241315365
+    },
+    {
+        "image": "person75_virus_136.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.005269518122076988
+    },
+    {
+        "image": "person76_virus_138.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.09540409594774246
+    },
+    {
+        "image": "person77_virus_139.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0015373778296634555
+    },
+    {
+        "image": "person78_bacteria_378.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.0248506871212157e-07
+    },
+    {
+        "image": "person78_bacteria_380.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.508300038314928e-09
+    },
+    {
+        "image": "person78_bacteria_381.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.98275813293003e-06
+    },
+    {
+        "image": "person78_bacteria_382.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.547951796965208e-05
+    },
+    {
+        "image": "person78_bacteria_384.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.9507796739380865e-07
+    },
+    {
+        "image": "person78_bacteria_385.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.630947897676378e-05
+    },
+    {
+        "image": "person78_bacteria_386.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.837498302847962e-06
+    },
+    {
+        "image": "person78_bacteria_387.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.07731229811906815
+    },
+    {
+        "image": "person78_virus_140.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0017256200080737472
+    },
+    {
+        "image": "person79_virus_148.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.08652711659669876
+    },
+    {
+        "image": "person80_bacteria_389.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.4352252037497237e-05
+    },
+    {
+        "image": "person80_bacteria_390.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.8446091871737735e-06
+    },
+    {
+        "image": "person80_bacteria_391.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.659623871499207e-06
+    },
+    {
+        "image": "person80_bacteria_392.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.003771405201405287
+    },
+    {
+        "image": "person80_bacteria_393.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.010133490897715092
+    },
+    {
+        "image": "person81_bacteria_395.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.0554349248413928e-05
+    },
+    {
+        "image": "person81_bacteria_396.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.4673505575046875e-06
+    },
+    {
+        "image": "person81_bacteria_397.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.2577184627104998e-08
+    },
+    {
+        "image": "person81_bacteria_398.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.835648153151851e-06
+    },
+    {
+        "image": "person82_bacteria_402.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00028245869907550514
+    },
+    {
+        "image": "person82_bacteria_403.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.8657172404346056e-05
+    },
+    {
+        "image": "person82_bacteria_404.jpeg",
+        "predicted_class": 0,
+        "confidence": 2.3799560949555598e-05
+    },
+    {
+        "image": "person82_bacteria_405.jpeg",
+        "predicted_class": 0,
+        "confidence": 8.986792818177491e-05
+    },
+    {
+        "image": "person83_bacteria_407.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.1670183539390564
+    },
+    {
+        "image": "person83_bacteria_409.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.41756094712764e-05
+    },
+    {
+        "image": "person83_bacteria_410.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.6100366337923333e-05
+    },
+    {
+        "image": "person83_bacteria_411.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00012385076843202114
+    },
+    {
+        "image": "person83_bacteria_412.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.237635367753683e-07
+    },
+    {
+        "image": "person83_bacteria_414.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.04253154993057251
+    },
+    {
+        "image": "person85_bacteria_417.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.006359000690281391
+    },
+    {
+        "image": "person85_bacteria_419.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0015466712648048997
+    },
+    {
+        "image": "person85_bacteria_421.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.150152744841762e-05
+    },
+    {
+        "image": "person85_bacteria_422.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0010151632595807314
+    },
+    {
+        "image": "person85_bacteria_423.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.288924174034037e-05
+    },
+    {
+        "image": "person85_bacteria_424.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0001583913544891402
+    },
+    {
+        "image": "person86_bacteria_428.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.005159941501915455
+    },
+    {
+        "image": "person86_bacteria_429.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.08025698561687e-05
+    },
+    {
+        "image": "person87_bacteria_433.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.5257724044204224e-06
+    },
+    {
+        "image": "person87_bacteria_434.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00227736821398139
+    },
+    {
+        "image": "person88_bacteria_437.jpeg",
+        "predicted_class": 0,
+        "confidence": 9.719165245769545e-05
+    },
+    {
+        "image": "person88_bacteria_438.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.2383571856844355e-06
+    },
+    {
+        "image": "person88_bacteria_439.jpeg",
+        "predicted_class": 1,
+        "confidence": 0.755079984664917
+    },
+    {
+        "image": "person89_bacteria_440.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.023090064525604248
+    },
+    {
+        "image": "person8_virus_27.jpeg",
+        "predicted_class": 0,
+        "confidence": 6.97776849847287e-05
+    },
+    {
+        "image": "person8_virus_28.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00019958728807978332
+    },
+    {
+        "image": "person90_bacteria_442.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.310123702249257e-06
+    },
+    {
+        "image": "person90_bacteria_443.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.3075630704406649e-05
+    },
+    {
+        "image": "person91_bacteria_445.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.034536249935626984
+    },
+    {
+        "image": "person91_bacteria_446.jpeg",
+        "predicted_class": 0,
+        "confidence": 8.247861842392012e-06
+    },
+    {
+        "image": "person91_bacteria_447.jpeg",
+        "predicted_class": 0,
+        "confidence": 4.4789387175114825e-05
+    },
+    {
+        "image": "person91_bacteria_448.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.004104612395167351
+    },
+    {
+        "image": "person91_bacteria_449.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0033854430075734854
+    },
+    {
+        "image": "person92_bacteria_450.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.5704265428648796e-06
+    },
+    {
+        "image": "person92_bacteria_451.jpeg",
+        "predicted_class": 0,
+        "confidence": 1.7761423123374698e-06
+    },
+    {
+        "image": "person93_bacteria_453.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.000554905564058572
+    },
+    {
+        "image": "person93_bacteria_454.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.4003874538466334e-05
+    },
+    {
+        "image": "person94_bacteria_456.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.002546526724472642
+    },
+    {
+        "image": "person94_bacteria_457.jpeg",
+        "predicted_class": 0,
+        "confidence": 6.578945743740405e-08
+    },
+    {
+        "image": "person94_bacteria_458.jpeg",
+        "predicted_class": 0,
+        "confidence": 3.1115590104491275e-08
+    },
+    {
+        "image": "person95_bacteria_463.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.0009447563206776977
+    },
+    {
+        "image": "person96_bacteria_464.jpeg",
+        "predicted_class": 0,
+        "confidence": 5.879292075405829e-07
+    },
+    {
+        "image": "person96_bacteria_465.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00021050198120065033
+    },
+    {
+        "image": "person96_bacteria_466.jpeg",
+        "predicted_class": 0,
+        "confidence": 7.293740782188252e-05
+    },
+    {
+        "image": "person97_bacteria_468.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.00018851504137273878
+    },
+    {
+        "image": "person99_bacteria_473.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.005453912541270256
+    },
+    {
+        "image": "person99_bacteria_474.jpeg",
+        "predicted_class": 0,
+        "confidence": 0.05007694289088249
+    }
+]
