@@ -1,0 +1,8 @@
+[PROMPT]
+Bu bir göğüs röntgenidir. Görüntü sınıfı: PNEUMONIA. 
+Açıklanabilirlik haritasında sağ alt lobda belirgin yoğunluk gözlenmektedir. 
+Lütfen bu bulgulara dayalı kısa ve klinik olarak anlamlı bir değerlendirme yazınız.
+
+[LLM CEVABI]
+Göğüs röntgeni üzerinde yapılan değerlendirmede sağ alt lob bölgesinde yoğunluk artışı gözlenmiştir. 
+Bu bulgu pnömoni lehine yorumlanmaktadır. Klinik değerlendirme ile birlikte antibiyotik tedavisi planlanabilir.
